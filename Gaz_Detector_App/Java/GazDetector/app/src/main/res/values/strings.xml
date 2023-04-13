@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GazDetector</string>
+    <string name="nav_header_title">Gaz Detector</string>
+    <string name="nav_header_subtitle">email@address.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_tableau_bord">Dashboard</string>
+    <string name="menu_plan">Map</string>
+    <string name="menu_capteur">Sensor</string>
+    <string name="patern">/}\{/g</string>
+    <string name="nominale">Nominative</string>
+    <string name="hazard_lvl">Danger Level :</string>
+    <string name="plan_position">Position sur le plan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
